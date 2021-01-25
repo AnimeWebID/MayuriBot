@@ -13,4 +13,4 @@ More information about license [here](https://github.com/ShiroLine/MayuriBot/blo
 You can open one Pull Request for kind of new features bot.
 
 # ***Support***
-If you have any questions Feel free to contact me at Discord `Shiroo#7717`
+If you have any questions Feel free to contact me at Discord `ShiroLine#7717`
